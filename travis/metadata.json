@@ -1,0 +1,35 @@
+{
+  "version": "0.0.1",
+  "maintainer_email": "anthony@namelessnotion.com",
+  "groupings": {
+  },
+  "recommendations": {
+  },
+  "platforms": {
+  },
+  "license": "Apache v2.0",
+  "suggestions": {
+  },
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
+  "attributes": {
+  },
+  "conflicting": {
+  },
+  "description": "Installs/Configures travis",
+  "dependencies": {
+    "postgresql": [
+
+    ],
+    "redis": [
+
+    ]
+  },
+  "providing": {
+  },
+  "name": "travis",
+  "recipes": {
+  },
+  "maintainer": "Anthony Byram",
+  "replacing": {
+  }
+}
